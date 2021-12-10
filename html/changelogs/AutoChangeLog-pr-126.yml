@@ -1,0 +1,4 @@
+author: SinguloBot
+delete-after: true
+changes:
+  - admin: Fryer Slamming is now logged.
