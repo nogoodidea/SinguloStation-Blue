@@ -1,4 +1,0 @@
-author: SinguloBot
-delete-after: true
-changes:
-  - bugfix: Flashes actually run out of charges went EMPed

@@ -1,5 +1,0 @@
-author: SinguloBot
-delete-after: true
-changes:
-  - bugfix: fixed stealthmin nicknames loading
-  - refactor: defines most loaded files
