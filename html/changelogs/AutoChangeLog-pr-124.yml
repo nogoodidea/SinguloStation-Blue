@@ -1,0 +1,4 @@
+author: SinguloBot
+delete-after: true
+changes:
+  - bugfix: Manuals (and Space Law Books) actually work now
