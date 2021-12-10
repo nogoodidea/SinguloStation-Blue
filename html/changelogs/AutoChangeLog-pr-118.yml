@@ -1,0 +1,4 @@
+author: SinguloBot
+delete-after: true
+changes:
+  - server: BYOND version bumped to 1571
