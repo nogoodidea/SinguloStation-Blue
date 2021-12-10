@@ -1,0 +1,4 @@
+author: SinguloBot
+delete-after: true
+changes:
+  - bugfix: Atmos reactions correctly processes on Linux hosts now
