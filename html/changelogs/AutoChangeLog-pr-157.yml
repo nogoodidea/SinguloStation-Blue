@@ -1,4 +1,0 @@
-author: SinguloBot
-delete-after: true
-changes:
-  - bugfix: cyborg stun arms now check stamina armor
