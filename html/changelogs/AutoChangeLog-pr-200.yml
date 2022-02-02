@@ -1,0 +1,4 @@
+author: SinguloBot
+delete-after: true
+changes:
+  - admin: Hypnoflash victims now show up on the Combo HUD
