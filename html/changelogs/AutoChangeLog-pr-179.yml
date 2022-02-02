@@ -1,0 +1,4 @@
+author: SinguloBot
+delete-after: true
+changes:
+  - config: Discord link for BYOND hub now takes from config
