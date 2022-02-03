@@ -1,0 +1,4 @@
+author: SinguloBot
+delete-after: true
+changes:
+  - tweak: Greentexting no longer awards beecoins.
