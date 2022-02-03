@@ -1,0 +1,4 @@
+author: SinguloBot
+delete-after: true
+changes:
+  - rscadd: Made WASD movement keys rebindable
