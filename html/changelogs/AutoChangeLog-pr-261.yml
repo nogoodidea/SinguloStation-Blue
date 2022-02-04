@@ -1,4 +1,0 @@
-author: SinguloBot
-delete-after: true
-changes:
-  - bugfix: Fixed a runtime when examining empty folders
