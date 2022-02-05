@@ -1,4 +1,0 @@
-author: KubeRoot
-delete-after: true
-changes:
-  - code_imp: Adds trailing newlines to files that were previously missing them
