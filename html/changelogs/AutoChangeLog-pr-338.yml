@@ -1,0 +1,4 @@
+author: SinguloBot
+delete-after: true
+changes:
+  - bugfix: fixes ruin artifact defenses playing from the wrong place
