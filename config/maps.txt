@@ -22,6 +22,26 @@ map cryostation
 	voteable
 endmap
 
+<<<<<<< HEAD
+=======
+map deltastation
+	minplayers 40
+	votable
+endmap
+
+map kilostation
+	maxplayers 50
+	votable
+endmap
+
+map flandstation
+	minplayers 40
+	votable
+endmap
+
+#Debug Maps, you probably don't want these enabled.
+
+>>>>>>> d4735aba0f... Updates Kilo Station and re-adds it to rotation (#5755)
 map runtimestation
 	disabled
 endmap
