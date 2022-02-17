@@ -144,6 +144,9 @@
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
 	dir = 8
 	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
 /turf/open/floor/plasteel,
 /area/science/research)
 "cd" = (
@@ -303,6 +306,18 @@
 	pixel_x = 24
 	},
 /turf/open/floor/plating,
+/area/science/research)
+"hZ" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{
+	dir = 8
+	},
+/obj/machinery/atmospherics/pipe/simple/supply/hidden/layer1{
+	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel,
 /area/science/research)
 "ip" = (
 /obj/structure/table/reinforced,
@@ -2146,6 +2161,9 @@
 	},
 /obj/machinery/atmospherics/pipe/manifold/supply/hidden/layer1{
 	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
 	},
 /turf/open/floor/plasteel,
 /area/science/research)
@@ -18706,7 +18724,7 @@ sa
 Nq
 QS
 QK
-UB
+hZ
 QS
 ej
 ej
@@ -18963,7 +18981,7 @@ Nd
 Ng
 OT
 QS
-UB
+hZ
 lM
 ej
 ce
@@ -19220,7 +19238,7 @@ FG
 Ng
 Pq
 QS
-UB
+hZ
 QS
 ej
 oj
