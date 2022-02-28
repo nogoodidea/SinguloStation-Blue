@@ -1,0 +1,4 @@
+author: nogoodidea
+delete-after: true
+changes:
+  - rscadd: added a missing powercable to construction station
